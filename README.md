@@ -90,23 +90,3 @@ O frontend estará disponível em **http://localhost:5173**
 
 O frontend se conecta automaticamente à API em **http://localhost:3000**.
 
----
-
-## Equipe de Desenvolvimento
-
-| Integrante | Responsabilidades |
-|-------------|-------------------|
-| **Samuel Morsch** | Configuração do ambiente backend, autenticação e integração Express + Sequelize |
-| **João Silva** | Modelagem de entidades (User, Product, Stock, Address) e rota de produtos |
-| **George Lima** | Implementação de pedidos e pagamentos, e criação do seed de administrador |
-
----
-
-## Licença
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos, sem fins comerciais.
-
----
-
-## Contato
-Para dúvidas ou colaborações, entre em contato com a equipe de desenvolvimento pelo e-mail:  
-**contato@caquicanela.com**
