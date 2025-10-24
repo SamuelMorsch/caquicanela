@@ -3,7 +3,7 @@
 Este repositório contém o código-fonte completo do **CaquiCanela**, um e-commerce de roupas femininas desenvolvido como parte do projeto de extensão do curso de Análise e Desenvolvimento de Sistemas da Católica SC.  
 O sistema foi criado para atender às necessidades da empresa **CaquiCanela**, que trabalha com revenda de roupas femininas, oferecendo uma plataforma moderna, intuitiva e segura para suas clientes.
 
-#Telas
+# Telas
 
 <img width="1889" height="826" alt="image" src="https://github.com/user-attachments/assets/a2d59ed4-9f60-4eb8-a8b5-321d3227e7c9" />
 <img width="1890" height="825" alt="image4" src="https://github.com/user-attachments/assets/a47bcc58-80d4-4977-820f-22aafd97dd78" />
